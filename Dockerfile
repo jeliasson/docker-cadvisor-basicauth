@@ -1,4 +1,4 @@
-FROM google/cadvisor:latest
+FROM gcr.io/cadvisor/cadvisor
 
 ARG USERNAME=admin
 ARG PASSWORD=Password1
